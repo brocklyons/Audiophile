@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dc22c3b-01e4-4b7c-9081-af10d1a13842" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQC0tyVH8Hb59t1UcexCcS0Pqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MusicLibrary" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="audiophile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Audiophile_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audiophile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.audiophile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dc22c3b-01e4-4b7c-9081-af10d1a13842" name="Default Changelist" comment="" />
+      <created>1582865211909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582865211909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583213169206">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state x="327" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.23.1634.1027@46.23.1634.1027" timestamp="1583213169206" />
+    <state x="569" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582964309285">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state x="569" y="346" key="#com.intellij.fileTypes.FileTypeChooser/46.23.1634.1027@46.23.1634.1027" timestamp="1582964309285" />
+    <state width="1083" height="280" key="GridCell.Tab.0.bottom" timestamp="1583216009894">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state width="1083" height="280" key="GridCell.Tab.0.bottom/46.23.1634.1027@46.23.1634.1027" timestamp="1583216009894" />
+    <state width="1083" height="280" key="GridCell.Tab.0.center" timestamp="1583216009893">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state width="1083" height="280" key="GridCell.Tab.0.center/46.23.1634.1027@46.23.1634.1027" timestamp="1583216009893" />
+    <state width="1083" height="280" key="GridCell.Tab.0.left" timestamp="1583216009893">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state width="1083" height="280" key="GridCell.Tab.0.left/46.23.1634.1027@46.23.1634.1027" timestamp="1583216009893" />
+    <state width="1083" height="280" key="GridCell.Tab.0.right" timestamp="1583216009894">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state width="1083" height="280" key="GridCell.Tab.0.right/46.23.1634.1027@46.23.1634.1027" timestamp="1583216009894" />
+    <state x="99" y="175" key="SettingsEditor" timestamp="1583053236757">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state x="99" y="175" key="SettingsEditor/46.23.1634.1027@46.23.1634.1027" timestamp="1583053236757" />
+    <state x="540" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1582865263618">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state x="540" y="369" key="com.intellij.ide.util.TipDialog/46.23.1634.1027@46.23.1634.1027" timestamp="1582865263618" />
+  </component>
+</project>
