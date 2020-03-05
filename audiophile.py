@@ -127,10 +127,7 @@ def handle_previous_button_action():
     Handle when the previous button is pressed
     """
     global fileIndex
-    global musicFiles
-    global trackStartedTime
     global currentSongPlayed
-    global playing
 
     if currentSongPlayed:
         elapsed = time.time() - trackStartedTime
@@ -156,8 +153,6 @@ def handle_next_button_action():
     Handle when the next button is pressed
     """
     global fileIndex
-    global musicFiles
-    global playing
 
     if fileIndex == len(musicFiles) - 1:
         fileIndex = 0
@@ -192,9 +187,6 @@ def main():
     Contains the loop to continuously get updates from the window
     """
     global musicFiles
-    global fileIndex
-    global currentSongPlayed
-    global playing
 
     musicFiles = get_all_mp3_files_in_library()
     mp3file = musicFiles[fileIndex]  # Start by getting the first file in the directory
