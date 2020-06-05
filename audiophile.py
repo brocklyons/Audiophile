@@ -21,6 +21,8 @@ Interface Functionality:
 # TODO: Show MP3 artist
 # TODO: Display Songs in Music Library
 # TODO: Beautify UI overall
+
+Test commit from new laptop
 """
 
 import os
